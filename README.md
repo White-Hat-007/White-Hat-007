@@ -138,10 +138,11 @@ Red Team > Blue Team > Paper Security
 
 ## 🧨 SIGNATURE PROJECTS
 
+* 🛰️ **Advanced Persistent Threat Intelligence Engine**
+* 🧅 **DARKLAYR – Tor Traffic Forensic Correlation Engine**
+* 📡 **Signal Stalker (Android Network Intelligence)**
 * 🔐 **Encrypted Keylogger with Secure Exfiltration**
 * 🕸 **Cowrie Honeypot + Fail2Ban + Attacker Mapping**
-* 📡 **Signal Stalker (Android Network Intelligence)**
-* 🧬 **Deepfake Detection Engine**
 * ⚡ **Trojan Detection for Power Sector Software**
 
 ---
@@ -149,6 +150,7 @@ Red Team > Blue Team > Paper Security
 ## 🏆 CERTIFICATIONS & RANKING
 
 * 🥇 Certified Penetration Tester (CPT v3)
+* 🏦 Mastercard’s Cybersecurity Job Simulation – Forage
 * 🌍 Top 7% Global – TryHackMe
 * 🎯 CEH v13 Master – Pursuing
 * 🎯 CompTIA Pentest+ (TryHackMe Path) – In Progress
