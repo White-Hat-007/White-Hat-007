@@ -37,7 +37,7 @@
 **Darsh Chatrani**
 🛡 **Certified Penetration Tester (CPT v3)**
 🎓 **B.Tech CSE | 3rd Year**
-🧠 **Offensive Security | Red Teaming | Malware Analysis**
+🧠 **Offensive Security | Red Teaming | Log Analysis**
 
 > ❝ I don’t look for vulnerabilities.
 > I **think like the vulnerability**. ❞
