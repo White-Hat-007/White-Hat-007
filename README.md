@@ -155,23 +155,6 @@ Red Team > Blue Team > Paper Security
 * 🎯 CEH v13 Master – Pursuing
 * 🎯 CompTIA Pentest+ (TryHackMe Path) – In Progress
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/TheDarkHat.png" />
-</p>
-
----
-
-## 📊 OPERATIONAL STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=White-Hat-007&show_icons=true&theme=chartreuse-dark&border_radius=10"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Hat-007&theme=chartreuse-dark&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=White-Hat-007&layout=compact&theme=chartreuse-dark&border_radius=10"/>
-</p>
-
 ---
 
 ## 🌐 COMMAND & CONTROL
