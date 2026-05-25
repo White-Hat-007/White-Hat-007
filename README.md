@@ -32,6 +32,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=White-Hat-007&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Hat-007&theme=dark" alt="Streak" />
+</p>
+
+---
+
 ## ⚠️ IDENTITY
 
 **Darsh Chatrani**
@@ -121,29 +128,14 @@ VMware | VirtualBox
 
 ---
 
-## 💻 LIVE TERMINAL
-
-```bash
-root@white-hat-007:~# whoami
-white-hat-007
-
-root@white-hat-007:~# mission
-Simulate real attacks | Break false trust | Secure reality
-
-root@white-hat-007:~# mindset
-Red Team > Blue Team > Paper Security
-```
-
----
-
 ## 🧨 SIGNATURE PROJECTS
 
-* 🛰️ **Advanced Persistent Threat Intelligence Engine**
-* 🧅 **DARKLAYR – Tor Traffic Forensic Correlation Engine**
-* 📡 **Signal Stalker (Android Network Intelligence)**
-* 🔐 **Encrypted Keylogger with Secure Exfiltration**
-* 🕸 **Cowrie Honeypot + Fail2Ban + Attacker Mapping**
-* ⚡ **Trojan Detection for Power Sector Software**
+* 🛰️ **[Advanced Persistent Threat Intelligence Engine](https://github.com/White-Hat-007/APT-Intelligence-Engine)**
+* 🧅 **[DARKLAYR – Tor Traffic Forensic Correlation Engine](https://github.com/White-Hat-007/DARKLAYR---Tor-Traffic-Forensic-Correlation-Engine)**
+* 📡 **[Signal Stalker (Android Network Intelligence)](https://github.com/White-Hat-007/Signal-Stalker)**
+* 🔐 **[Encrypted Keylogger with Secure Exfiltration](https://github.com/White-Hat-007/PROJECT-Keylogger-with-Encrypted-Data-Exfiltration)**
+* 🕸 **[Cowrie Honeypot + Fail2Ban + Attacker Mapping](https://github.com/White-Hat-007/PROJECT-Cowrie-Honeypot-Fail2Ban-IP-Geolocation-Visualizer)**
+* ⚡ **[Trojan Detection for Power Sector Software](https://github.com/White-Hat-007/Trojan-Detection-Power-Sector)**
 
 ---
 
