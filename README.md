@@ -6,25 +6,25 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,35:061006,70:003300,100:00ff41&height=260&section=header&text=DARSH%20CHATRANI&fontSize=52&fontColor=00ff41&fontAlignY=35&animation=fadeIn&desc=OFFENSIVE%20SECURITY%20%7C%20AI%20SECURITY%20%7C%20THREAT%20INTELLIGENCE&descSize=16&descAlignY=58&descColor=b7ffb7"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:07152B,65:22090D,100:063B2B&height=260&section=header&text=DARSH%20CHATRANI&fontSize=52&fontColor=F4F7FF&fontAlignY=35&animation=fadeIn&desc=OFFENSIVE%20SECURITY%20%7C%20AI%20SECURITY%20%7C%20THREAT%20INTELLIGENCE&descSize=16&descAlignY=58&descColor=9FE8FF"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=1050&height=55&lines=Certified+Penetration+Tester+%7C+CPT+v3;OFFENSIVE+SECURITY+%2F%2F+RED+TEAM+%2F%2F+ADVERSARY+SIMULATION;AI+RUNTIME+SECURITY+%2F%2F+LLM+SECURITY+%2F%2F+ADVERSARIAL+ML;THREAT+INTELLIGENCE+%2F%2F+MALWARE+%2F%2F+REVERSE+ENGINEERING;TOP+7%25+GLOBALLY+ON+TRYHACKME;100%2C000%2B+EVENTS%2FSEC+THREAT+INTELLIGENCE+PIPELINE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=5FE7FF&center=true&vCenter=true&width=1050&height=55&lines=Certified+Penetration+Tester+%7C+CPT+v3;OFFENSIVE+SECURITY+%2F%2F+RED+TEAM+%2F%2F+ADVERSARY+SIMULATION;AI+RUNTIME+SECURITY+%2F%2F+LLM+SECURITY+%2F%2F+ADVERSARIAL+ML;THREAT+INTELLIGENCE+%2F%2F+MALWARE+%2F%2F+REVERSE+ENGINEERING;TOP+7%25+GLOBALLY+ON+TRYHACKME;100%2C000%2B+EVENTS%2FSEC+THREAT+INTELLIGENCE+PIPELINE"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/GITHUB-58A6FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-4EA1FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B1020"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME%20%7C%20TOP%207%25-00FF88?style=for-the-badge&logo=tryhackme&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/TRYHACKME%20%7C%20TOP%207%25-FF4D5A?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=200B10"/>
   </a>
   <a href="https://rootdarsh-dev.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-39D98A?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=071A14"/>
   </a>
 </p>
 
@@ -159,14 +159,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NMAP-111111?style=flat-square&logo=nmap&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=flat-square&logo=portswigger&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/METASPLOIT-111111?style=flat-square&logo=metasploit&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/WIRESHARK-111111?style=flat-square&logo=wireshark&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/ZEEK-111111?style=flat-square&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/HASHCAT-111111?style=flat-square&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/SQLMAP-111111?style=flat-square&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/FAIL2BAN-111111?style=flat-square&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/NMAP-16243A?style=flat-square&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/BURP%20SUITE-3A1620?style=flat-square&logoColor=FF6B78"/>
+  <img src="https://img.shields.io/badge/METASPLOIT-3A1620?style=flat-square&logoColor=FF6B78"/>
+  <img src="https://img.shields.io/badge/WIRESHARK-16243A?style=flat-square&logoColor=5FE7FF"/>
+  <img src="https://img.shields.io/badge/ZEEK-132A22?style=flat-square&logoColor=39D98A"/>
+  <img src="https://img.shields.io/badge/HASHCAT-132A22?style=flat-square&logoColor=39D98A"/>
+  <img src="https://img.shields.io/badge/SQLMAP-3A1620?style=flat-square&logoColor=FF6B78"/>
+  <img src="https://img.shields.io/badge/FAIL2BAN-132A22?style=flat-square&logoColor=39D98A"/>
 </p>
 
 <p align="center">
@@ -385,10 +385,10 @@ Persistent collection
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CPT%20v3-CERTIFIED-00FF88?style=for-the-badge&labelColor=0A0F0C"/>
-<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY%20SIM-00FF88?style=for-the-badge&labelColor=0A0F0C"/>
-<img src="https://img.shields.io/badge/CEH%20v13%20MASTER-IN%20PROGRESS-7CFFB2?style=for-the-badge&labelColor=0A0F0C"/>
-<img src="https://img.shields.io/badge/PENTEST%2B-IN%20PROGRESS-7CFFB2?style=for-the-badge&labelColor=0A0F0C"/>
+<img src="https://img.shields.io/badge/CPT%20v3-CERTIFIED-FF4D5A?style=for-the-badge&labelColor=200B10"/>
+<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY%20SIM-58A6FF?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/CEH%20v13%20MASTER-IN%20PROGRESS-5FE7FF?style=for-the-badge&labelColor=07151F"/>
+<img src="https://img.shields.io/badge/PENTEST%2B-IN%20PROGRESS-39D98A?style=for-the-badge&labelColor=071A14"/>
 
 </p>
 
@@ -430,7 +430,7 @@ Persistent collection
 <h2 align="center">⚙️ CURRENT OPERATING MODE</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:061806,100:001500&height=100&text=AUTHORIZED%20%2F%2F%20ADVERSARY%20SIMULATION&fontSize=22&fontColor=00ff41&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,35:07152B,70:22090D,100:063B2B&height=100&text=AUTHORIZED%20%2F%2F%20ADVERSARY%20SIMULATION&fontSize=22&fontColor=F4F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -443,16 +443,16 @@ Persistent collection
 
 <p align="center">
   <a href="mailto:darsh.chatrani.work@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/EMAIL-FF4D5A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=200B10"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B1020"/>
   </a>
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/GITHUB-4EA1FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME-00FF88?style=for-the-badge&logo=tryhackme&logoColor=7CFFB2&labelColor=0A0F0C"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-39D98A?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=071A14"/>
   </a>
 </p>
 
