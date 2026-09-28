@@ -1,111 +1,191 @@
-# DARSH CHATRANI
+<!--
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  DARSH CHATRANI // OFFENSIVE SECURITY PROFILE                      ║
+  ║  VISUAL SYSTEM // CYBER COMMAND CENTER                             ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff00&height=230&section=header&text=DARSH-CHATRANI&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,35:061006,70:003300,100:00ff41&height=260&section=header&text=DARSH%20CHATRANI&fontSize=52&fontColor=00ff41&fontAlignY=35&animation=fadeIn&desc=OFFENSIVE%20SECURITY%20%7C%20AI%20SECURITY%20%7C%20THREAT%20INTELLIGENCE&descSize=16&descAlignY=58&descColor=b7ffb7"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=1000&lines=Certified+Penetration+Tester+%7C+CPT+v3;Offensive+Security+%7C+Red+Teaming+%7C+Adversary+Simulation;AI+Runtime+Security+%7C+LLM+Security+%7C+Adversarial+ML;Threat+Intelligence+%7C+Malware+%7C+Reverse+Engineering;Top+7%25+Globally+on+TryHackMe;100%2C000%2B+Events%2Fsec+Threat+Intelligence+Pipeline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=1050&height=55&lines=Certified+Penetration+Tester+%7C+CPT+v3;OFFENSIVE+SECURITY+%2F%2F+RED+TEAM+%2F%2F+ADVERSARY+SIMULATION;AI+RUNTIME+SECURITY+%2F%2F+LLM+SECURITY+%2F%2F+ADVERSARIAL+ML;THREAT+INTELLIGENCE+%2F%2F+MALWARE+%2F%2F+REVERSE+ENGINEERING;TOP+7%25+GLOBALLY+ON+TRYHACKME;100%2C000%2B+EVENTS%2FSEC+THREAT+INTELLIGENCE+PIPELINE"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/White-Hat-007"><img src="https://img.shields.io/badge/GitHub-White--Hat--007-111111?style=for-the-badge&logo=github&logoColor=00ff00"/></a>
-  <a href="https://www.linkedin.com/in/darshchatrani"><img src="https://img.shields.io/badge/LinkedIn-Darsh%20Chatrani-111111?style=for-the-badge&logo=linkedin&logoColor=00ff00"/></a>
-  <a href="https://tryhackme.com/p/TheDarkHat"><img src="https://img.shields.io/badge/TryHackMe-Top%207%25-111111?style=for-the-badge&logo=tryhackme&logoColor=00ff00"/></a>
-  <a href="https://rootdarsh-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rootdarsh--dev-111111?style=for-the-badge&logo=vercel&logoColor=00ff00"/></a>
+  <a href="https://github.com/White-Hat-007">
+    <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+  </a>
+  <a href="https://www.linkedin.com/in/darshchatrani">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
+  </a>
+  <a href="https://tryhackme.com/p/TheDarkHat">
+    <img src="https://img.shields.io/badge/TRYHACKME-TOP%207%25-00FF41?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=050505"/>
+  </a>
+  <a href="https://rootdarsh-dev.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=050505"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=White-Hat-007&style=for-the-badge&color=00ff41&label=PROFILE+SIGNALS"/>
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🛡️ CPT v3
+**CERTIFIED**
+
+</td>
+<td align="center" width="25%">
+
+### 🌍 TOP 7%
+**TRYHACKME**
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ 100K+
+**EVENTS / SEC**
+
+</td>
+<td align="center" width="25%">
+
+### 🥇 1ST
+**190+ TEAMS**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `whoami`
+<h2 align="center">⌁ SYSTEM IDENTITY ⌁</h2>
 
-**Darsh Chatrani**  
-*Offensive Security | Penetration Testing | AI Security | Cybersecurity Research | Security Tool Development*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=7CFF9E&center=true&vCenter=true&width=850&height=40&lines=%3E+INITIALIZING+DARSH.CHATRANI...;%3E+LOADING+OFFENSIVE+SECURITY+MODULES...;%3E+LOADING+AI+SECURITY+MODULES...;%3E+THREAT+INTELLIGENCE+PIPELINE+ONLINE;%3E+STATUS%3A+AUTHORIZED+%2F%2F+ACTIVE"/>
+</p>
 
-Computer Science Engineering student focused on **offensive security, adversary simulation, AI/LLM security, threat intelligence, malware analysis, reverse engineering, and security engineering**.
-
-My work spans the attack-and-defend lifecycle:
+<div align="center">
 
 ```text
-RECON → ENUMERATE → EXPLOIT → PIVOT → OBSERVE → CORRELATE → DETECT → HARDEN
+┌──────────────────────────────────────────────────────────────────────┐
+│  IDENTITY                                                           │
+│                                                                      │
+│  DARSH CHATRANI                                                      │
+│  Offensive Security  •  Penetration Testing  •  AI Security         │
+│  Threat Intelligence  •  Security Research  •  Tool Engineering     │
+│                                                                      │
+│  LOCATION       Chennai, India                                      │
+│  STATUS         Authorized Security Research                         │
+│  SPECIALTY      Attack Chains + Detection Engineering               │
+└──────────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 > **I don't just look for vulnerabilities. I study the attack chain behind them.**
 
----
-
-## `// proof_of_work`
-
-| Signal | Evidence |
-|---|---|
-| 🛡️ Certification | **Certified Penetration Tester (CPT v3)** |
-| 🌍 Ranking | **Top 7% globally on TryHackMe** |
-| ⚡ Threat Intelligence | **Up to 100,000+ events/sec** |
-| 🤖 AI Security | **AI Firewall / LLM Runtime Security** |
-| 🎯 Hackathon | **1st Place — 190+ teams** |
-| 🕵️ Honeypot Research | **50+ intrusion attempts analyzed** |
-| 🔬 Research | Android RE, session-hijacking analysis, adversary mapping |
+<br/>
 
 ---
 
-## `// offensive_core`
+<h2 align="center">◈ CAPABILITY MATRIX ◈</h2>
 
-### 🔴 Offensive Security
-```text
-Penetration Testing • VAPT • Enumeration • Exploitation
-Linux / Windows Privilege Escalation • Active Directory
-Credential Attacks • Password Cracking • Post-Exploitation
-Lateral Movement • Reverse Engineering • C2 Infrastructure
-```
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-### 🧠 AI / LLM Security
-```text
-AI Runtime Security • LLM Security • Prompt Injection Defense
-Jailbreak Analysis • Agentic Security • Adversarial ML
-MITRE ATLAS • AI Operations
-```
+<h3 align="center">🔴 OFFENSIVE</h3>
 
-### 🕵️ Detection & Intelligence
-```text
-Threat Intelligence • SIEM • Log Analysis • Threat Hunting
-Incident Response • Honeypots • PCAP Analysis
-MITRE ATT&CK • Cyber Kill Chain • Attacker Profiling
-```
+<p align="center">
+<code>VAPT</code><br/>
+<code>Web Security</code><br/>
+<code>Network Security</code><br/>
+<code>AD Attacks</code><br/>
+<code>Privilege Escalation</code><br/>
+<code>Post-Exploitation</code><br/>
+<code>Credential Attacks</code><br/>
+<code>Lateral Movement</code>
+</p>
 
-### 🧬 Malware / Reverse Engineering
-```text
-Static Analysis • Dynamic Analysis • Smali / Bytecode
-Obfuscation Detection • Unpacking • Behavioral Analysis
-Cryptographic Analysis
-```
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 AI SECURITY</h3>
+
+<p align="center">
+<code>LLM Security</code><br/>
+<code>Prompt Injection</code><br/>
+<code>Jailbreak Analysis</code><br/>
+<code>Agentic Security</code><br/>
+<code>AI Runtime Security</code><br/>
+<code>Adversarial ML</code><br/>
+<code>MITRE ATLAS</code><br/>
+<code>AI Operations</code>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🕵️ INTELLIGENCE</h3>
+
+<p align="center">
+<code>Threat Intelligence</code><br/>
+<code>SIEM</code><br/>
+<code>Threat Hunting</code><br/>
+<code>PCAP Analysis</code><br/>
+<code>Honeypots</code><br/>
+<code>Incident Response</code><br/>
+<code>MITRE ATT&CK</code><br/>
+<code>Adversary Mapping</code>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `// technical_stack`
+<h2 align="center">⚔️ ENGINEERING ARSENAL</h2>
 
-### Languages
-`Python` `Java` `C` `C++` `SQL` `Bash` `JavaScript` `TypeScript` `HTML`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,js,ts,html,flask,fastapi,docker,git,linux,windows,postgres,redis,kafka&perline=9"/>
+</p>
 
-### Security
-`Nmap` `Burp Suite` `Metasploit` `Wireshark` `Hydra` `Gobuster` `Netcat` `John` `Hashcat` `Nikto` `Zeek` `Fail2Ban` `Nessus` `OpenVAS` `VirusTotal` `Splunk`
+<p align="center">
+  <img src="https://img.shields.io/badge/NMAP-111111?style=flat-square&logo=nmap&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/BURP%20SUITE-111111?style=flat-square&logo=portswigger&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/METASPLOIT-111111?style=flat-square&logo=metasploit&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/WIRESHARK-111111?style=flat-square&logo=wireshark&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/ZEEK-111111?style=flat-square&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/HASHCAT-111111?style=flat-square&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/SQLMAP-111111?style=flat-square&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/FAIL2BAN-111111?style=flat-square&logoColor=00ff41"/>
+</p>
 
-### Engineering
-`Flask` `FastAPI` `Redis` `PostgreSQL` `Kafka` `Docker` `Git` `WebSockets`
-
-### Frameworks & Standards
-`OWASP Top 10` `MITRE ATT&CK` `MITRE ATLAS` `NIST` `Cyber Kill Chain`
-
-### Operating Systems
-`Kali Linux` `Parrot OS` `Ubuntu` `Windows Server/Client`
+<p align="center">
+  <code>OWASP TOP 10</code> &nbsp; <code>MITRE ATT&CK</code> &nbsp; <code>MITRE ATLAS</code> &nbsp; <code>NIST</code> &nbsp; <code>CYBER KILL CHAIN</code>
+</p>
 
 ---
 
-# `// signature_projects`
+<h2 align="center">🚨 SIGNATURE SYSTEMS</h2>
 
-## 🛡️ GhostPrompt
-### Enterprise AI Runtime Security Platform & Operations Gateway
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI security platform designed to intercept, analyze, and control adversarial LLM interactions.
+<h3>🛡️ GhostPrompt</h3>
+
+<strong>Enterprise AI Runtime Security Platform</strong>
+
+<br/><br/>
 
 ```text
 33-engine detection pipeline
@@ -113,260 +193,243 @@ An AI security platform designed to intercept, analyze, and control adversarial 
 17+ attack vectors
 <15 ms interception
 MITRE ATLAS mapping
-9-framework compliance suite
-RBAC + cryptographically signed exports
-Routing + semantic caching + billing
+9-framework compliance
+RBAC + signed exports
+Operations + routing layer
 ```
 
-Security research includes **prompt injection, multi-turn jailbreaks, agentic hijacking, and multi-agent fragmentation patterns**.
+<a href="https://github.com/White-Hat-007/GhostPrompt">↗ EXPLORE PROJECT</a>
 
-🔗 [Repository](https://github.com/White-Hat-007/GhostPrompt)
+</td>
+<td width="50%" valign="top">
 
----
+<h3>🕵️ DARKLAYR</h3>
 
-## 🕵️ DARKLAYR
-### Tor Traffic Forensic Correlation Engine
+<strong>Tor Traffic Forensic Correlation Engine</strong>
 
-Forensic-oriented network analysis using:
+<br/><br/>
 
 ```text
 Zeek telemetry
 Live PCAP inspection
 ASN intelligence
 Probabilistic correlation
-Network-layer traffic analysis
+Network-layer analysis
+Forensic-oriented workflow
 ```
 
-Designed to identify Tor traffic patterns without compromising endpoint anonymization.
+<a href="https://github.com/White-Hat-007/DARKLAYR---Tor-Traffic-Forensic-Correlation-Engine">↗ EXPLORE PROJECT</a>
 
-🔗 [Repository](https://github.com/White-Hat-007/DARKLAYR---Tor-Traffic-Forensic-Correlation-Engine)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## ⚡ APT Intelligence Engine
-### High-Throughput Threat Intelligence Pipeline
+<h3>⚡ APT Intelligence Engine</h3>
 
-A thread-safe Python architecture ingesting and correlating heterogeneous security telemetry.
+<strong>High-Throughput Threat Intelligence</strong>
+
+<br/><br/>
 
 ```text
 7 heterogeneous sources
-Kafka streams
-REST APIs
-SIEM logs
+Kafka + REST + SIEM
 100,000+ events/sec
-MITRE ATT&CK technique mapping
-Automated threat fingerprinting
+ATT&CK mapping
+Threat fingerprinting
 Unsupervised clustering
 ```
 
-🔗 [Repository](https://github.com/White-Hat-007/APT-Intelligence-Engine)
+<a href="https://github.com/White-Hat-007/APT-Intelligence-Engine">↗ EXPLORE PROJECT</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📱 Android Mobile Application Security Assessment
+<h3>📡 Signal Stalker</h3>
 
-Static reverse engineering through **smali bytecode analysis**, identifying:
+<strong>Android RF & Network Reconnaissance</strong>
 
-- Exposed backend API endpoints
-- Broken authentication flows
-- Insecure session management
-
-Findings were documented in a structured penetration-testing report format.
-
-🔗 [Repository](https://github.com/White-Hat-007/Mobile-Application-Reverse-Engineering-Analysis)
-
----
-
-## 📡 Signal Stalker
-### Android Radio Frequency & Network Reconnaissance
-
-Persistent authorized intelligence-gathering tooling covering:
+<br/><br/>
 
 ```text
-Wi-Fi • Bluetooth • IoT • Cellular
-GPS geolocation tagging
-Persistent background collection
+Wi-Fi intelligence
+Bluetooth discovery
+IoT signal collection
+Cellular telemetry
+GPS geolocation
+Persistent collection
 ```
 
-🔗 [Repository](https://github.com/White-Hat-007/Signal-Stalker)
+<a href="https://github.com/White-Hat-007/Signal-Stalker">↗ EXPLORE PROJECT</a>
 
----
+</td>
+</tr>
+</table>
 
-## 🕸️ Cowrie Honeypot + Automated Response
+<details>
+<summary><strong>⌁ MORE SECURITY SYSTEMS</strong></summary>
 
-A threat-intelligence and response environment combining:
+<br/>
 
-```text
-Cowrie SSH/Telnet
-Fail2Ban automated blocking
-Attacker IP geolocation
-Real-time visualization
-Behavioral analysis
-50+ intrusion attempts
-```
-
-🔗 [Repository](https://github.com/White-Hat-007/PROJECT-Cowrie-Honeypot-Fail2Ban-IP-Geolocation-Visualizer)
-
----
-
-## 🔐 Encrypted Keylogger + Flask C2
-
-Authorized red-team simulation project featuring:
-
-```text
-AES-encrypted telemetry
-Flask C2
-Remote session management
-Live exfiltration simulation
-Remote kill-switch
-Persistence mechanisms
-```
-
-🔗 [Repository](https://github.com/White-Hat-007/PROJECT-Keylogger-with-Encrypted-Data-Exfiltration)
-
----
-
-# `// professional_experience`
-
-### Cyber Security Intern — Elevate Labs
-**May 2025 – June 2025**
-
-- Designed an encrypted Python keylogger with persistence and controlled C2-style exfiltration for security simulation.
-- Deployed and hardened a production-grade Cowrie SSH/Telnet honeypot.
-- Captured and analyzed **50+ intrusion attempts** to study attacker behavior and TTPs.
-
-### Full-Stack & Android Developer Intern — iYarKai Tech Lab Pvt. Ltd.
-**July 2025 – October 2025**
-
-- Engineered scalable web and Android applications with secure backend integration.
-- Applied **OWASP secure coding principles** throughout development.
-- Contributed security-aware code reviews and helped identify and remediate a backend authentication vulnerability before production.
-
-### Independent Security Researcher
-**Ongoing**
-
-- Investigated a real-world WhatsApp Web session-hijacking incident.
-- Analyzed unauthorized session vectors and enforced session termination across active endpoints.
-- Documented findings and defensive hardening recommendations.
-
----
-
-# `// achievements`
-
-| Achievement | Result |
+| System | Focus |
 |---|---|
-| 🥇 National Agentic AI Hackathon | **1st Place — 190+ teams** |
-| 🥇 ISTE National Paper Presentation | **1st Place** |
-| 🎖️ Tamil Nadu Police Hackathon 2025 | **Finalist — Cyber Crime Wing** |
-| 🌍 TechXcelerate, BITS Pilani Goa | **National Rank 37** |
-| 🏆 ODOO × MSU FootPrints'25 | **Top 5% nationally** |
-| 🎯 Smart India Hackathon 2025 | **Shortlisted** |
-| 🥉 Vel Tech AptiMind | **3rd Place** |
+| 🔐 Encrypted Keylogger + Flask C2 | Authorized red-team simulation, encrypted telemetry, session management |
+| 🕸️ Cowrie + Fail2Ban | Honeypot telemetry, automated blocking, attacker geolocation |
+| 📱 Android Reverse Engineering | Smali analysis, exposed APIs, authentication & session flaws |
+| ⚡ Trojan Detection | Malware detection research for power-sector software |
+
+<br/>
+
+</details>
 
 ---
 
-# `// certifications`
-
-```text
-[✓] Certified Penetration Tester (CPT v3)
-    RedTeam Hacker Academy
-
-[✓] Mastercard Cybersecurity Virtual Job Simulation
-    Forage
-
-[~] Certified Ethical Hacker (CEH v13 Master)
-    EC-Council — In Progress
-
-[~] CompTIA Pentest+ Certification Path
-    TryHackMe — In Progress
-```
-
----
-
-# `// education`
-
-**B.Tech — Computer Science Engineering**  
-Vel Tech University • 2023 – Present  
-**CGPA: 8.30 / 10**
-
-**Class XII** — Sindhi Model Senior Secondary School  
-2023 • **77.2%**
-
-**Class X** — Sindhi Model Senior Secondary School  
-2021 • **86.2%**
-
----
-
-# `// leadership`
-
-### IEEE Student Member — Vice Chairperson & Secretary
-
-Leadership across:
-
-- Inter-collegiate hackathons
-- Technical competitions
-- STEM outreach initiatives
-- Student technical events
-
----
-
-# `// operating_mode`
-
-```diff
-+ ACCESS        : AUTHORIZED
-+ MODE          : ADVERSARY SIMULATION
-+ PRIORITY      : ATTACK SURFACE
-+ FOCUS         : ATTACK CHAINS
-+ TELEMETRY     : EVERYTHING
-+ ASSUMPTION    : NEVER TRUST BY DEFAULT
-+ RESPONSE      : DETECT → CONTAIN → LEARN
-- SECURITY BY OBSCURITY
-```
-
----
-
-# `// currently_building`
-
-```text
-OFFENSIVE SECURITY
-├── Pentesting & VAPT
-├── Adversary Simulation
-└── Post-Exploitation Research
-
-AI SECURITY
-├── LLM Security
-├── AI Runtime Protection
-└── Adversarial AI Research
-
-THREAT INTELLIGENCE
-├── High-throughput telemetry
-├── ATT&CK / ATLAS mapping
-└── Behavioral correlation
-```
-
----
-
-# `// philosophy`
-
-> **Security doesn't fail when an exploit exists.  
-> It fails when the system assumes the exploit won't matter.**
-
-I build, break, observe, correlate, and harden.
-
-**Think like an attacker. Engineer like a defender.**
-
----
-
-# `// connect`
+<h2 align="center">📊 OPERATIONAL METRICS</h2>
 
 <p align="center">
-  <a href="mailto:darsh.chatrani.work@gmail.com"><img src="https://img.shields.io/badge/Email-darsh.chatrani.work%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=00ff00"/></a>
-  <a href="https://www.linkedin.com/in/darshchatrani"><img src="https://img.shields.io/badge/LinkedIn-darshchatrani-111111?style=for-the-badge&logo=linkedin&logoColor=00ff00"/></a>
-  <a href="https://github.com/White-Hat-007"><img src="https://img.shields.io/badge/GitHub-White--Hat--007-111111?style=for-the-badge&logo=github&logoColor=00ff00"/></a>
-  <a href="https://tryhackme.com/p/TheDarkHat"><img src="https://img.shields.io/badge/TryHackMe-TheDarkHat-111111?style=for-the-badge&logo=tryhackme&logoColor=00ff00"/></a>
-  <a href="https://rootdarsh-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rootdarsh--dev-111111?style=for-the-badge&logo=vercel&logoColor=00ff00"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=White-Hat-007&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&text_color=c9ffd8&icon_color=00ff41&ring_color=00ff41&include_all_commits=true&count_private=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Hat-007&hide_border=true&background=050505&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7cff9e&currStreakNum=c9ffd8&sideNums=c9ffd8&dates=7c8f82" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=White-Hat-007&bg_color=050505&color=00ff41&line=00ff41&point=c9ffd8&area=true&hide_border=true&custom_title=THREAT%20ACTIVITY%20%2F%2F%20DEVELOPMENT%20SIGNAL"/>
 </p>
+
+---
+
+<h2 align="center">🏆 VERIFIED ACHIEVEMENTS</h2>
+
+<table align="center">
+<tr>
+<td align="center"><strong>🥇 1st</strong><br/>National Agentic AI Hackathon<br/><sub>190+ teams</sub></td>
+<td align="center"><strong>🥇 1st</strong><br/>ISTE National Paper Presentation</td>
+<td align="center"><strong>🎖️ Finalist</strong><br/>Tamil Nadu Police Hackathon 2025</td>
+</tr>
+<tr>
+<td align="center"><strong>🌍 Rank 37</strong><br/>TechXcelerate<br/><sub>BITS Pilani Goa</sub></td>
+<td align="center"><strong>🏆 Top 5%</strong><br/>ODOO × MSU FootPrints'25</td>
+<td align="center"><strong>🎯 Shortlisted</strong><br/>Smart India Hackathon 2025</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">💼 EXPERIENCE</h2>
+
+<div align="center">
+
+```text
+2025
+│
+├── MAY ─ JUN ─────── ELEVATE LABS
+│                      CYBER SECURITY INTERN
+│                      └─ Honeypots • C2 Simulation • Threat Analysis
+│
+├── JUL ─ OCT ─────── IYARKAI TECH LAB
+│                      FULL-STACK & ANDROID DEVELOPER INTERN
+│                      └─ Secure Development • Code Review • Backend Security
+│
+└── ONGOING ───────── INDEPENDENT SECURITY RESEARCH
+                       └─ Session Hijacking • Incident Analysis • Hardening
+```
+
+</div>
+
+---
+
+<h2 align="center">🎓 CERTIFICATION STACK</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CPT%20v3-CERTIFIED-00ff41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY%20SIM-00ff41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/CEH%20v13%20MASTER-IN%20PROGRESS-7cff9e?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/PENTEST%2B-IN%20PROGRESS-7cff9e?style=for-the-badge&labelColor=050505"/>
+
+</p>
+
+---
+
+<h2 align="center">🧠 ATTACK CHAIN</h2>
+
+<p align="center">
+
+```text
+   RECON
+     │
+     ▼
+ ENUMERATE
+     │
+     ▼
+ EXPLOIT ────────► INITIAL ACCESS
+     │                  │
+     ▼                  ▼
+ PRIVESC ◄──────── POST-EXPLOITATION
+     │
+     ▼
+  PIVOT / LATERAL MOVEMENT
+     │
+     ▼
+   CORRELATE
+     │
+     ▼
+ DETECT / CONTAIN
+     │
+     ▼
+    HARDEN
+```
+
+</p>
+
+---
+
+<h2 align="center">⚙️ CURRENT OPERATING MODE</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:061806,100:001500&height=100&text=AUTHORIZED%20%2F%2F%20ADVERSARY%20SIMULATION&fontSize=22&fontColor=00ff41&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <code>ATTACK SURFACE</code> → <code>ATTACK CHAIN</code> → <code>TELEMETRY</code> → <code>DETECTION</code> → <code>HARDENING</code>
+</p>
+
+---
+
+<h2 align="center">⌁ CONNECT WITH ME ⌁</h2>
+
+<p align="center">
+  <a href="mailto:darsh.chatrani.work@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/>
+  </a>
+  <a href="https://www.linkedin.com/in/darshchatrani">
+    <img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
+  </a>
+  <a href="https://github.com/White-Hat-007">
+    <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+  </a>
+  <a href="https://tryhackme.com/p/TheDarkHat">
+    <img src="https://img.shields.io/badge/TRYHACKME-00ff41?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=050505"/>
+  </a>
+</p>
+
+<p align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  "Security fails where comfort begins."                      │
+│                                                              │
+│  THINK LIKE AN ATTACKER.                                     │
+│  ENGINEER LIKE A DEFENDER.                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=150&section=footer"/>
+</p>
+
+<!-- END OF PROFILE // AUTHORIZED SECURITY RESEARCH -->
