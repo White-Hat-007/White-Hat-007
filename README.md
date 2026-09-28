@@ -15,16 +15,16 @@
 
 <p align="center">
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME-TOP%207%25-00FF41?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/TRYHACKME%20%7C%20TOP%207%25-00FF88?style=for-the-badge&logo=tryhackme&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
   <a href="https://rootdarsh-dev.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
 </p>
 
@@ -317,24 +317,67 @@ Persistent collection
 
 <h2 align="center">💼 EXPERIENCE</h2>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="22%" valign="top" align="center">
 
-```text
-2025
-│
-├── MAY ─ JUN ─────── ELEVATE LABS
-│                      CYBER SECURITY INTERN
-│                      └─ Honeypots • C2 Simulation • Threat Analysis
-│
-├── JUL ─ OCT ─────── IYARKAI TECH LAB
-│                      FULL-STACK & ANDROID DEVELOPER INTERN
-│                      └─ Secure Development • Code Review • Backend Security
-│
-└── ONGOING ───────── INDEPENDENT SECURITY RESEARCH
-                       └─ Session Hijacking • Incident Analysis • Hardening
-```
+### MAY — JUN
+**2025**
 
-</div>
+</td>
+<td width="78%" valign="top">
+
+### 🛡️ Cyber Security Intern — Elevate Labs
+
+**Remote · May 2025 – June 2025**
+
+- Designed an encrypted Python keylogger with persistence and controlled C2-style exfiltration for security simulation.
+- Deployed and hardened a Cowrie SSH/Telnet honeypot.
+- Analyzed **50+ intrusion attempts** to study attacker behavior and TTPs.
+
+</td>
+</tr>
+
+<tr>
+<td width="22%" valign="top" align="center">
+
+### JUL — OCT
+**2025**
+
+</td>
+<td width="78%" valign="top">
+
+### ⚙️ Full-Stack & Android Developer Intern — iYarKai Tech Lab
+
+**July 2025 – October 2025**
+
+- Engineered web and Android applications with secure backend integration.
+- Applied **OWASP secure coding practices** throughout development.
+- Contributed to security-aware code reviews and helped identify and remediate a backend authentication vulnerability before production.
+
+</td>
+</tr>
+
+<tr>
+<td width="22%" valign="top" align="center">
+
+### ONGOING
+**2025 →**
+
+</td>
+<td width="78%" valign="top">
+
+### 🔎 Independent Security Researcher
+
+**Ongoing**
+
+- Investigated a real-world WhatsApp Web session-hijacking incident.
+- Analyzed unauthorized session vectors and enforced session termination across active endpoints.
+- Documented findings and defensive hardening recommendations.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -342,10 +385,10 @@ Persistent collection
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CPT%20v3-CERTIFIED-00ff41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY%20SIM-00ff41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/CEH%20v13%20MASTER-IN%20PROGRESS-7cff9e?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/PENTEST%2B-IN%20PROGRESS-7cff9e?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/CPT%20v3-CERTIFIED-00FF88?style=for-the-badge&labelColor=0A0F0C"/>
+<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY%20SIM-00FF88?style=for-the-badge&labelColor=0A0F0C"/>
+<img src="https://img.shields.io/badge/CEH%20v13%20MASTER-IN%20PROGRESS-7CFFB2?style=for-the-badge&labelColor=0A0F0C"/>
+<img src="https://img.shields.io/badge/PENTEST%2B-IN%20PROGRESS-7CFFB2?style=for-the-badge&labelColor=0A0F0C"/>
 
 </p>
 
@@ -400,16 +443,16 @@ Persistent collection
 
 <p align="center">
   <a href="mailto:darsh.chatrani.work@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME-00ff41?style=for-the-badge&logo=tryhackme&logoColor=000000&labelColor=050505"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-00FF88?style=for-the-badge&logo=tryhackme&logoColor=7CFFB2&labelColor=0A0F0C"/>
   </a>
 </p>
 
