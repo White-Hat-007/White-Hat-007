@@ -1,224 +1,323 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║  DARSH CHATRANI // OFFENSIVE SECURITY PROFILE                      ║
-  ║  VISUAL SYSTEM // CYBER COMMAND CENTER                             ║
-  ╚══════════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                            ║
+  ║   "People walk around, acting like they know what they want.               ║
+  ║    They don't. They're sleepwalking through their own lives."              ║
+  ║                                                                            ║
+  ║   — Elliot Alderson                                                        ║
+  ║                                                                            ║
+  ║   DARSH CHATRANI // CYBER SECURITY ENGINEER                                ║
+  ║   SYSTEM BREACH SIMULATION // DEFENSE ARCHITECTURE // AI SECURITY          ║
+  ║                                                                            ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:07152B,65:22090D,100:063B2B&height=260&section=header&text=DARSH%20CHATRANI&fontSize=52&fontColor=F4F7FF&fontAlignY=35&animation=fadeIn&desc=OFFENSIVE%20SECURITY%20%7C%20AI%20SECURITY%20%7C%20THREAT%20INTELLIGENCE&descSize=16&descAlignY=58&descColor=9FE8FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:003300,100:00ff41&height=300&section=header&text=DARSH%20CHATRANI&fontSize=58&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%E2%96%88%E2%96%88%20CYBER%20SECURITY%20ENGINEER%20%E2%96%88%E2%96%88&descSize=18&descAlignY=58&descColor=00cc33&stroke=003300&strokeWidth=2"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=5FE7FF&center=true&vCenter=true&width=1050&height=55&lines=Certified+Penetration+Tester+%7C+CPT+v3;OFFENSIVE+SECURITY+%2F%2F+RED+TEAM+%2F%2F+ADVERSARY+SIMULATION;AI+RUNTIME+SECURITY+%2F%2F+LLM+SECURITY+%2F%2F+ADVERSARIAL+ML;THREAT+INTELLIGENCE+%2F%2F+MALWARE+%2F%2F+REVERSE+ENGINEERING;TOP+7%25+GLOBALLY+ON+TRYHACKME;100%2C000%2B+EVENTS%2FSEC+THREAT+INTELLIGENCE+PIPELINE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%24+INITIALIZING+SYSTEM...+IDENTITY+VERIFIED;%24+LOADING+OFFENSIVE+%2F%2F+DEFENSIVE+%2F%2F+AI+SECURITY+MODULES;%24+STATUS%3A+AUTHORIZED+%7C+ACTIVE+%7C+OPERATIONAL"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBER_SECURITY_ENGINEER-00ff41?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-ff0033?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-00ccff?style=for-the-badge&logo=shield&logoColor=ffffff&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/AI_SECURITY-ff6600?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0a0a0a"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-58A6FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020"/>
+    <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-4EA1FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B1020"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME%20%7C%20TOP%207%25-FF4D5A?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=200B10"/>
+    <img src="https://img.shields.io/badge/TRYHACKME_TOP_7%25-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=000000"/>
   </a>
   <a href="https://rootdarsh-dev.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-39D98A?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=071A14"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=000000"/>
+  </a>
+  <a href="mailto:darsh.chatrani.work@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=White-Hat-007&style=for-the-badge&color=00ff41&label=PROFILE+SIGNALS"/>
+  <img src="https://komarev.com/ghpvc/?username=White-Hat-007&style=for-the-badge&color=00ff41&label=PROFILE+SCANS"/>
 </p>
+
+<br/>
+
+```
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗     ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝
+
+ ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗
+ ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
+ █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
+ ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
+ ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
+ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
+
+---
+
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+SYSTEM IDENTITY
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│   > whoami                                                                       │
+│   DARSH CHATRANI                                                                 │
+│                                                                                  │
+│   > cat /etc/role                                                                │
+│   CYBER SECURITY ENGINEER                                                        │
+│   Offensive Security  ·  Defensive Security  ·  AI Security                      │
+│   Penetration Testing  ·  Threat Intelligence  ·  Security Research              │
+│                                                                                  │
+│   > cat /etc/location                                                            │
+│   Chennai, India                                                                 │
+│                                                                                  │
+│   > cat /etc/education                                                           │
+│   B.Tech Computer Science Engineering — Vel Tech University                      │
+│   CGPA: 8.28 / 10                                                                │
+│                                                                                  │
+│   > cat /etc/status                                                              │
+│   AUTHORIZED SECURITY RESEARCH // ACTIVE                                         │
+│                                                                                  │
+│   > echo $PHILOSOPHY                                                             │
+│   "Control is an illusion. But sometimes you need                                │
+│    the illusion to gain control."                                                │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+> **I don't just look for vulnerabilities. I study the entire attack chain behind them — then I engineer the defense.**
 
 <br/>
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🛡️ CPT v3
 **CERTIFIED**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🌍 TOP 7%
 **TRYHACKME**
+<sub>3M+ users</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### ⚡ 100K+
 **EVENTS / SEC**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🥇 1ST
 **190+ TEAMS**
 
 </td>
+<td align="center" width="20%">
+
+### 🧠 8.28
+**CGPA**
+
+</td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">⌁ SYSTEM IDENTITY ⌁</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+CAPABILITY MATRIX
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
+
+<table align="center">
+<tr>
+<td width="25%" valign="top">
+
+<h3 align="center">🔴 OFFENSIVE</h3>
+
+```
+VAPT
+Web Application Security
+Network Penetration Testing
+AD Attacks & Kerberoasting
+Privilege Escalation
+Post-Exploitation
+Credential Attacks
+Lateral Movement
+Session Hijacking
+Password Cracking
+```
+
+</td>
+<td width="25%" valign="top">
+
+<h3 align="center">🔵 DEFENSIVE</h3>
+
+```
+SIEM & Log Analysis
+Threat Hunting
+Incident Response
+Honeypot Engineering
+Detection Engineering
+Intrusion Detection
+Forensic Analysis
+Hardening & Patching
+Security Architecture
+Automated Blocking
+```
+
+</td>
+<td width="25%" valign="top">
+
+<h3 align="center">🤖 AI SECURITY</h3>
+
+```
+LLM Runtime Security
+Prompt Injection Defense
+Jailbreak Analysis
+Agentic Security
+Adversarial ML
+AI Firewall Engineering
+MITRE ATLAS Mapping
+Multi-Provider Security
+Model Security Auditing
+AI Threat Detection
+```
+
+</td>
+<td width="25%" valign="top">
+
+<h3 align="center">🕵️ INTELLIGENCE</h3>
+
+```
+Threat Intelligence
+PCAP & Traffic Analysis
+Adversary Profiling
+MITRE ATT&CK Mapping
+Malware Analysis
+Reverse Engineering
+Attacker Geolocation
+Behavioral Analysis
+TTP Correlation
+Cyber Kill Chain
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+ENGINEERING ARSENAL
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=7CFF9E&center=true&vCenter=true&width=850&height=40&lines=%3E+INITIALIZING+DARSH.CHATRANI...;%3E+LOADING+OFFENSIVE+SECURITY+MODULES...;%3E+LOADING+AI+SECURITY+MODULES...;%3E+THREAT+INTELLIGENCE+PIPELINE+ONLINE;%3E+STATUS%3A+AUTHORIZED+%2F%2F+ACTIVE"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,js,ts,html,flask,fastapi,docker,git,linux,windows,postgres,redis,kafka&perline=9&theme=dark"/>
 </p>
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  IDENTITY                                                           │
-│                                                                      │
-│  DARSH CHATRANI                                                      │
-│  Offensive Security  •  Penetration Testing  •  AI Security         │
-│  Threat Intelligence  •  Security Research  •  Tool Engineering     │
-│                                                                      │
-│  LOCATION       Chennai, India                                      │
-│  STATUS         Authorized Security Research                         │
-│  SPECIALTY      Attack Chains + Detection Engineering               │
-└──────────────────────────────────────────────────────────────────────┘
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  OFFENSIVE TOOLKIT                                                          │
+│  Nmap · Burp Suite · Metasploit · SQLmap · Hydra · Gobuster · Netcat       │
+│  John the Ripper · Hashcat · Nikto · Aircrack-ng                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FORENSICS & REVERSE ENGINEERING                                            │
+│  Wireshark · Zeek · Ghidra · Volatility · PCAP Analysis                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  DEFENSIVE & MONITORING                                                     │
+│  Cowrie Honeypot · Fail2Ban · SIEM · Splunk · Log Analysis · Threat Hunt   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  AI & LLM PROVIDERS                                                         │
+│  OpenAI · Anthropic · Google Gemini · Mistral · Meta Llama · Groq          │
+│  Cohere · HuggingFace · Together AI · Ollama                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  PLATFORMS                                                                   │
+│  Kali Linux · Parrot OS · Ubuntu · Windows Server/Client                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FRAMEWORKS & STANDARDS                                                      │
+│  OWASP Top 10 · MITRE ATT&CK · MITRE ATLAS · NIST CSF · Cyber Kill Chain  │
+│  Command-and-Control (C2)                                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-> **I don't just look for vulnerabilities. I study the attack chain behind them.**
-
-<br/>
-
 ---
 
-<h2 align="center">◈ CAPABILITY MATRIX ◈</h2>
-
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-<h3 align="center">🔴 OFFENSIVE</h3>
-
-<p align="center">
-<code>VAPT</code><br/>
-<code>Web Security</code><br/>
-<code>Network Security</code><br/>
-<code>AD Attacks</code><br/>
-<code>Privilege Escalation</code><br/>
-<code>Post-Exploitation</code><br/>
-<code>Credential Attacks</code><br/>
-<code>Lateral Movement</code>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">🤖 AI SECURITY</h3>
-
-<p align="center">
-<code>LLM Security</code><br/>
-<code>Prompt Injection</code><br/>
-<code>Jailbreak Analysis</code><br/>
-<code>Agentic Security</code><br/>
-<code>AI Runtime Security</code><br/>
-<code>Adversarial ML</code><br/>
-<code>MITRE ATLAS</code><br/>
-<code>AI Operations</code>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">🕵️ INTELLIGENCE</h3>
-
-<p align="center">
-<code>Threat Intelligence</code><br/>
-<code>SIEM</code><br/>
-<code>Threat Hunting</code><br/>
-<code>PCAP Analysis</code><br/>
-<code>Honeypots</code><br/>
-<code>Incident Response</code><br/>
-<code>MITRE ATT&CK</code><br/>
-<code>Adversary Mapping</code>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">⚔️ ENGINEERING ARSENAL</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,js,ts,html,flask,fastapi,docker,git,linux,windows,postgres,redis,kafka&perline=9"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NMAP-16243A?style=flat-square&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/BURP%20SUITE-3A1620?style=flat-square&logoColor=FF6B78"/>
-  <img src="https://img.shields.io/badge/METASPLOIT-3A1620?style=flat-square&logoColor=FF6B78"/>
-  <img src="https://img.shields.io/badge/WIRESHARK-16243A?style=flat-square&logoColor=5FE7FF"/>
-  <img src="https://img.shields.io/badge/ZEEK-132A22?style=flat-square&logoColor=39D98A"/>
-  <img src="https://img.shields.io/badge/HASHCAT-132A22?style=flat-square&logoColor=39D98A"/>
-  <img src="https://img.shields.io/badge/SQLMAP-3A1620?style=flat-square&logoColor=FF6B78"/>
-  <img src="https://img.shields.io/badge/FAIL2BAN-132A22?style=flat-square&logoColor=39D98A"/>
-</p>
-
-<p align="center">
-  <code>OWASP TOP 10</code> &nbsp; <code>MITRE ATT&CK</code> &nbsp; <code>MITRE ATLAS</code> &nbsp; <code>NIST</code> &nbsp; <code>CYBER KILL CHAIN</code>
-</p>
-
----
-
-<h2 align="center">🚨 SIGNATURE SYSTEMS</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+SIGNATURE SYSTEMS
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ GhostPrompt</h3>
+### 🛡️ [GhostPrompt](https://github.com/White-Hat-007/GhostPrompt)
 
-<strong>Enterprise AI Runtime Security Platform</strong>
+**Enterprise AI Runtime Security Platform**
 
-<br/><br/>
-
-```text
-33-engine detection pipeline
-12+ AI providers
-17+ attack vectors
-<15 ms interception
-MITRE ATLAS mapping
-9-framework compliance
-RBAC + signed exports
-Operations + routing layer
+```diff
++ 33-engine detection pipeline
++ 12-layer bidirectional inspection
++ 12+ AI providers secured
++ 17+ attack vectors neutralized
++ <15ms interception latency
++ MITRE ATLAS threat mapping
++ 9-framework compliance engine
++ RBAC + signed exports
++ Live SOC dashboard
++ Global Threat Origin Map
 ```
-
-<a href="https://github.com/White-Hat-007/GhostPrompt">↗ EXPLORE PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🕵️ DARKLAYR</h3>
+### 🕵️ [DARKLAYR](https://github.com/White-Hat-007/DARKLAYR---Tor-Traffic-Forensic-Correlation-Engine)
 
-<strong>Tor Traffic Forensic Correlation Engine</strong>
+**Tor Traffic Forensic Correlation Engine**
 
-<br/><br/>
-
-```text
-Zeek telemetry
-Live PCAP inspection
-ASN intelligence
-Probabilistic correlation
-Network-layer analysis
-Forensic-oriented workflow
+```diff
++ Zeek network telemetry
++ Live PCAP deep inspection
++ ASN intelligence feeds
++ Probabilistic correlation models
++ Network-layer forensic analysis
++ Endpoint deanonymization research
++ Forensic-oriented workflow
 ```
-
-<a href="https://github.com/White-Hat-007/DARKLAYR---Tor-Traffic-Forensic-Correlation-Engine">↗ EXPLORE PROJECT</a>
 
 </td>
 </tr>
@@ -226,58 +325,52 @@ Forensic-oriented workflow
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚡ APT Intelligence Engine</h3>
+### ⚡ [APT Intelligence Engine](https://github.com/White-Hat-007/APT-Intelligence-Engine)
 
-<strong>High-Throughput Threat Intelligence</strong>
+**High-Throughput Threat Intelligence Pipeline**
 
-<br/><br/>
-
-```text
-7 heterogeneous sources
-Kafka + REST + SIEM
-100,000+ events/sec
-ATT&CK mapping
-Threat fingerprinting
-Unsupervised clustering
+```diff
++ 7 heterogeneous data sources
++ Kafka + REST API + SIEM ingestion
++ 100,000+ events/sec throughput
++ ATT&CK technique mapping
++ Automated threat fingerprinting
++ Unsupervised clustering
++ Thread-safe Python architecture
 ```
-
-<a href="https://github.com/White-Hat-007/APT-Intelligence-Engine">↗ EXPLORE PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 Signal Stalker</h3>
+### 📡 [Signal Stalker](https://github.com/White-Hat-007/Signal-Stalker)
 
-<strong>Android RF & Network Reconnaissance</strong>
+**Android RF & Network Reconnaissance**
 
-<br/><br/>
-
-```text
-Wi-Fi intelligence
-Bluetooth discovery
-IoT signal collection
-Cellular telemetry
-GPS geolocation
-Persistent collection
+```diff
++ Wi-Fi intelligence gathering
++ Bluetooth device discovery
++ IoT signal collection
++ Cellular telemetry capture
++ GPS geolocation tagging
++ Persistent data collection
++ Authorized network mapping
 ```
-
-<a href="https://github.com/White-Hat-007/Signal-Stalker">↗ EXPLORE PROJECT</a>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>⌁ MORE SECURITY SYSTEMS</strong></summary>
+<summary><strong>$ ls -la /systems/classified/ &nbsp;&nbsp;▸ MORE SECURITY SYSTEMS</strong></summary>
 
 <br/>
 
-| System | Focus |
-|---|---|
-| 🔐 Encrypted Keylogger + Flask C2 | Authorized red-team simulation, encrypted telemetry, session management |
-| 🕸️ Cowrie + Fail2Ban | Honeypot telemetry, automated blocking, attacker geolocation |
-| 📱 Android Reverse Engineering | Smali analysis, exposed APIs, authentication & session flaws |
-| ⚡ Trojan Detection | Malware detection research for power-sector software |
+| System | Classification | Description |
+|:---|:---|:---|
+| 🔐 [Encrypted Keylogger + Flask C2](https://github.com/White-Hat-007/PROJECT-Keylogger-with-Encrypted-Data-Exfiltration) | `RED TEAM` | AES-encrypted keylogging agent with Flask C2 server, remote session management, live keystroke exfiltration, master kill-switch |
+| 🕸️ [Cowrie Honeypot + Fail2Ban](https://github.com/White-Hat-007/PROJECT-Cowrie-Honeypot-Fail2Ban-IP-Geolocation-Visualizer) | `BLUE TEAM` | Production-grade SSH/Telnet honeypot, automated blocking, real-time attacker IP geolocation, visual threat mapping |
+| 📱 Mobile Application Security Assessment | `OFFENSIVE` | Static reverse engineering of Android APKs via smali bytecode, exposed API endpoints, broken auth flows, insecure session management |
+| ⚡ [Trojan Detection — Power Sector](https://github.com/White-Hat-007/Trojan-Detection-Power-Sector) | `RESEARCH` | Malware detection research for critical infrastructure power-sector software |
 
 <br/>
 
@@ -285,153 +378,134 @@ Persistent collection
 
 ---
 
-<h2 align="center">📊 OPERATIONAL METRICS</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+PROFESSIONAL EXPERIENCE
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=White-Hat-007&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&text_color=c9ffd8&icon_color=00ff41&ring_color=00ff41&include_all_commits=true&count_private=true" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Hat-007&hide_border=true&background=050505&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7cff9e&currStreakNum=c9ffd8&sideNums=c9ffd8&dates=7c8f82" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=White-Hat-007&bg_color=050505&color=00ff41&line=00ff41&point=c9ffd8&area=true&hide_border=true&custom_title=THREAT%20ACTIVITY%20%2F%2F%20DEVELOPMENT%20SIGNAL"/>
-</p>
-
----
-
-<h2 align="center">🏆 VERIFIED ACHIEVEMENTS</h2>
-
-<table align="center">
-<tr>
-<td align="center"><strong>🥇 1st</strong><br/>National Agentic AI Hackathon<br/><sub>190+ teams</sub></td>
-<td align="center"><strong>🥇 1st</strong><br/>ISTE National Paper Presentation</td>
-<td align="center"><strong>🎖️ Finalist</strong><br/>Tamil Nadu Police Hackathon 2025</td>
-</tr>
-<tr>
-<td align="center"><strong>🌍 Rank 37</strong><br/>TechXcelerate<br/><sub>BITS Pilani Goa</sub></td>
-<td align="center"><strong>🏆 Top 5%</strong><br/>ODOO × MSU FootPrints'25</td>
-<td align="center"><strong>🎯 Shortlisted</strong><br/>Smart India Hackathon 2025</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">💼 EXPERIENCE</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="22%" valign="top" align="center">
-
-### MAY — JUN
-**2025**
-
-</td>
-<td width="78%" valign="top">
-
-### 🛡️ Cyber Security Intern — Elevate Labs
-
-**Remote · May 2025 – June 2025**
-
-- Designed an encrypted Python keylogger with persistence and controlled C2-style exfiltration for security simulation.
-- Deployed and hardened a Cowrie SSH/Telnet honeypot.
-- Analyzed **50+ intrusion attempts** to study attacker behavior and TTPs.
-
-</td>
-</tr>
-
-<tr>
-<td width="22%" valign="top" align="center">
-
-### JUL — OCT
-**2025**
-
-</td>
-<td width="78%" valign="top">
-
-### ⚙️ Full-Stack & Android Developer Intern — iYarKai Tech Lab
-
-**July 2025 – October 2025**
-
-- Engineered web and Android applications with secure backend integration.
-- Applied **OWASP secure coding practices** throughout development.
-- Contributed to security-aware code reviews and helped identify and remediate a backend authentication vulnerability before production.
-
-</td>
-</tr>
-
-<tr>
-<td width="22%" valign="top" align="center">
-
-### ONGOING
-**2025 →**
-
-</td>
-<td width="78%" valign="top">
-
-### 🔎 Independent Security Researcher
-
-**Ongoing**
-
-- Investigated a real-world WhatsApp Web session-hijacking incident.
-- Analyzed unauthorized session vectors and enforced session termination across active endpoints.
-- Documented findings and defensive hardening recommendations.
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🎓 CERTIFICATION STACK</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/CPT%20v3-CERTIFIED-FF4D5A?style=for-the-badge&labelColor=200B10"/>
-<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY%20SIM-58A6FF?style=for-the-badge&labelColor=0B1020"/>
-<img src="https://img.shields.io/badge/CEH%20v13%20MASTER-IN%20PROGRESS-5FE7FF?style=for-the-badge&labelColor=07151F"/>
-<img src="https://img.shields.io/badge/PENTEST%2B-IN%20PROGRESS-39D98A?style=for-the-badge&labelColor=071A14"/>
-
-</p>
-
----
-
-<h2 align="center">🧠 ATTACK CHAIN</h2>
-
-<p align="center">
-
-```text
-   RECON
-     │
-     ▼
- ENUMERATE
-     │
-     ▼
- EXPLOIT ────────► INITIAL ACCESS
-     │                  │
-     ▼                  ▼
- PRIVESC ◄──────── POST-EXPLOITATION
-     │
-     ▼
-  PIVOT / LATERAL MOVEMENT
-     │
-     ▼
-   CORRELATE
-     │
-     ▼
- DETECT / CONTAIN
-     │
-     ▼
-    HARDEN
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│  [ONGOING]  INDEPENDENT SECURITY RESEARCHER                                      │
+│  ─────────────────────────────────────────                                        │
+│  > Investigated real-world WhatsApp Web session-hijacking incident               │
+│  > Analyzed unauthorized session vectors & enforced termination                  │
+│  > Documented defensive hardening recommendations                               │
+│                                                                                  │
+│  [JUL — OCT 2025]  FULL-STACK & ANDROID DEVELOPER INTERN                        │
+│  iYarKai Tech Lab Pvt. Ltd.                                                      │
+│  ─────────────────────────────────────────                                        │
+│  > Engineered web & Android apps with secure backend integration                │
+│  > Applied OWASP secure coding practices throughout lifecycle                   │
+│  > Identified & remediated backend auth vulnerability pre-production            │
+│                                                                                  │
+│  [MAY — JUN 2025]  CYBER SECURITY INTERN                                         │
+│  Elevate Labs | Remote                                                           │
+│  ─────────────────────────────────────────                                        │
+│  > Designed encrypted keylogger with persistence & C2 exfiltration              │
+│  > Replicated advanced post-exploitation workflows (real threat TTPs)           │
+│  > Deployed production-grade Cowrie SSH/Telnet honeypot                          │
+│  > Analyzed 50+ intrusion attempts for attacker behavioral profiling            │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+OPERATIONAL METRICS
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=White-Hat-007&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&ring_color=00ff41&include_all_commits=true&count_private=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White-Hat-007&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&currStreakNum=00ff41&sideNums=00cc33&dates=006600" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=White-Hat-007&bg_color=000000&color=00ff41&line=00ff41&point=00cc33&area=true&area_color=003300&hide_border=true&custom_title=%24+THREAT+ACTIVITY+//+CONTRIBUTION+SIGNAL"/>
 </p>
 
 ---
 
-<h2 align="center">⚙️ CURRENT OPERATING MODE</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+VERIFIED ACHIEVEMENTS
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
+
+```diff
++ 🥇 1st Place — National Agentic AI Hackathon (190+ teams) | Prize: INR 15,000
++ 🥇 1st Place — ISTE National Paper Presentation, P.S.R Engineering College
++ 🎖️ Finalist — Tamil Nadu Police Hackathon 2025, Cyber Crime Wing
++ 🌍 National Rank 37 — TechXcelerate Hackathon, BITS Pilani Goa Campus
++ 🏆 Top 5% — ODOO × MSU FootPrints'25 National Hackathon
++ 🎯 Shortlisted — Smart India Hackathon (SIH) 2025
++ 🥉 3rd Place — Vel Tech AptiFind Technical Competition
+```
+
+---
+
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+CERTIFICATION STACK
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,35:07152B,70:22090D,100:063B2B&height=100&text=AUTHORIZED%20%2F%2F%20ADVERSARY%20SIMULATION&fontSize=22&fontColor=F4F7FF&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/CPT_v3-CERTIFIED-00ff41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY_SIM-00ff41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CEH_v13_MASTER-IN_PROGRESS-ffcc00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/COMPTIA_PENTEST+-IN_PROGRESS-ffcc00?style=for-the-badge&labelColor=000000"/>
 </p>
+
+---
+
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+ATTACK CHAIN
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
+
+<div align="center">
+
+```
+                            ╔═══════════════╗
+                            ║     RECON     ║
+                            ╚══════╤════════╝
+                                   │
+                            ╔══════╧════════╗
+                            ║   ENUMERATE   ║
+                            ╚══════╤════════╝
+                                   │
+                  ╔════════════════╧═══════════════╗
+                  ║          EXPLOIT               ║
+                  ╚════════╤═══════════════╤═══════╝
+                           │               │
+                  ╔════════╧════════╗ ╔════╧══════════════╗
+                  ║  INITIAL ACCESS ║ ║ POST-EXPLOITATION ║
+                  ╚════════╤════════╝ ╚════╤══════════════╝
+                           │               │
+                  ╔════════╧═══════════════╧═══════╗
+                  ║     PRIVILEGE ESCALATION       ║
+                  ╚════════════════╤════════════════╝
+                                   │
+                  ╔════════════════╧════════════════╗
+                  ║   PIVOT / LATERAL MOVEMENT      ║
+                  ╚════════════════╤════════════════╝
+                                   │
+              ╔════════════════════╧════════════════════╗
+              ║            CORRELATE & DETECT           ║
+              ╚════════════════════╤════════════════════╝
+                                   │
+              ╔════════════════════╧════════════════════╗
+              ║         CONTAIN & HARDEN               ║
+              ╚════════════════════════════════════════╝
+```
+
+</div>
 
 <p align="center">
   <code>ATTACK SURFACE</code> → <code>ATTACK CHAIN</code> → <code>TELEMETRY</code> → <code>DETECTION</code> → <code>HARDENING</code>
@@ -439,40 +513,88 @@ Persistent collection
 
 ---
 
-<h2 align="center">⌁ CONNECT WITH ME ⌁</h2>
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+ADDITIONAL INTEL
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│  > cat /etc/education                                                            │
+│  B.Tech in Computer Science Engineering — Vel Tech University (2023 – Present)  │
+│  CGPA: 8.28 / 10                                                                 │
+│                                                                                  │
+│  > cat /etc/languages                                                            │
+│  English · Hindi · Tamil · Sindhi · Gujarati                                     │
+│                                                                                  │
+│  > cat /etc/memberships                                                          │
+│  IEEE Student Member — Vice Chairperson & Secretary                              │
+│  TryHackMe Premium — Top 7% Global                                               │
+│                                                                                  │
+│  > cat /etc/leadership                                                           │
+│  Spearheaded organization of inter-collegiate hackathons,                        │
+│  technical competitions, and STEM outreach at Vel Tech University               │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<h2 align="center">
+<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+CONNECT
+<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
+</h2>
 
 <p align="center">
   <a href="mailto:darsh.chatrani.work@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF4D5A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=200B10"/>
+    <img src="https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=000000"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B1020"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/>
   </a>
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-4EA1FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020"/>
+    <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME-39D98A?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=071A14"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=000000"/>
+  </a>
+  <a href="https://rootdarsh-dev.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=000000"/>
   </a>
 </p>
 
-<p align="center">
+---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  "Security fails where comfort begins."                      │
-│                                                              │
-│  THINK LIKE AN ATTACKER.                                     │
-│  ENGINEER LIKE A DEFENDER.                                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│   "I didn't start hacking because I wanted to break things.                      │
+│    I started because the world was already broken."                              │
+│                                                                                  │
+│   Security fails where comfort begins.                                           │
+│   I don't audit checklists. I execute attack chains.                            │
+│   Then I build the walls that stop them.                                         │
+│                                                                                  │
+│   Think like an attacker. Engineer like a defender.                              │
+│                                                                                  │
+│   — Darsh Chatrani                                                               │
+│                                                                                  │
+│   $ connection_terminated                                                        │
+│   $ session_encrypted                                                            │
+│   $ goodbye, friend.                                                             │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-</p>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:003300,70:001a00,100:000000&height=150&section=footer&animation=twinkling"/>
 </p>
 
-<!-- END OF PROFILE // AUTHORIZED SECURITY RESEARCH -->
+<!-- EOF // AUTHORIZED SECURITY RESEARCH // DARSH CHATRANI -->
