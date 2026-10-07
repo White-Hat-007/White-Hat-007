@@ -235,28 +235,28 @@ Cyber Kill Chain
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  OFFENSIVE TOOLKIT                                                          │
-│  Nmap · Burp Suite · Metasploit · SQLmap · Hydra · Gobuster · Netcat       │
-│  John the Ripper · Hashcat · Nikto · Aircrack-ng                           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  FORENSICS & REVERSE ENGINEERING                                            │
-│  Wireshark · Zeek · Ghidra · Volatility · PCAP Analysis                    │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  DEFENSIVE & MONITORING                                                     │
-│  Cowrie Honeypot · Fail2Ban · SIEM · Splunk · Log Analysis · Threat Hunt   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  AI & LLM PROVIDERS                                                         │
-│  OpenAI · Anthropic · Google Gemini · Mistral · Meta Llama · Groq          │
-│  Cohere · HuggingFace · Together AI · Ollama                               │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  PLATFORMS                                                                   │
-│  Kali Linux · Parrot OS · Ubuntu · Windows Server/Client                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  FRAMEWORKS & STANDARDS                                                      │
-│  OWASP Top 10 · MITRE ATT&CK · MITRE ATLAS · NIST CSF · Cyber Kill Chain  │
-│  Command-and-Control (C2)                                                   │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│  OFFENSIVE TOOLKIT                                                               │
+│  Nmap · Burp Suite · Metasploit · SQLmap · Hydra · Gobuster · Netcat             │
+│  John the Ripper · Hashcat · Nikto · Aircrack-ng                                 │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  FORENSICS & REVERSE ENGINEERING                                                 │
+│  Wireshark · Zeek · Ghidra · Volatility · PCAP Analysis                          │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  DEFENSIVE & MONITORING                                                          │
+│  Cowrie Honeypot · Fail2Ban · SIEM · Splunk · Log Analysis · Threat Hunt         │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  AI & LLM PROVIDERS                                                              │
+│  OpenAI · Anthropic · Google Gemini · Mistral · Meta Llama · Groq                │
+│  Cohere · HuggingFace · Together AI · Ollama                                     │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  PLATFORMS                                                                       │
+│  Kali Linux · Parrot OS · Ubuntu · Windows Server/Client                         │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  FRAMEWORKS & STANDARDS                                                          │
+│  OWASP Top 10 · MITRE ATT&CK · MITRE ATLAS · NIST CSF · Cyber Kill Chain         │
+│  Command-and-Control (C2)                                                        │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -368,25 +368,25 @@ Cyber Kill Chain
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                  │
 │  [ONGOING]  INDEPENDENT SECURITY RESEARCHER                                      │
-│  ─────────────────────────────────────────                                        │
+│  ─────────────────────────────────────────                                       │
 │  > Investigated real-world WhatsApp Web session-hijacking incident               │
 │  > Analyzed unauthorized session vectors & enforced termination                  │
-│  > Documented defensive hardening recommendations                               │
+│  > Documented defensive hardening recommendations                                │
 │                                                                                  │
-│  [JUL — OCT 2025]  FULL-STACK & ANDROID DEVELOPER INTERN                        │
+│  [JUL - OCT 2025]  FULL-STACK & ANDROID DEVELOPER INTERN                         │
 │  iYarKai Tech Lab Pvt. Ltd.                                                      │
-│  ─────────────────────────────────────────                                        │
-│  > Engineered web & Android apps with secure backend integration                │
-│  > Applied OWASP secure coding practices throughout lifecycle                   │
-│  > Identified & remediated backend auth vulnerability pre-production            │
+│  ─────────────────────────────────────────                                       │
+│  > Engineered web & Android apps with secure backend integration                 │
+│  > Applied OWASP secure coding practices throughout lifecycle                    │
+│  > Identified & remediated backend auth vulnerability pre-production             │
 │                                                                                  │
-│  [MAY — JUN 2025]  CYBER SECURITY INTERN                                         │
+│  [MAY - JUN 2025]  CYBER SECURITY INTERN                                         │
 │  Elevate Labs | Remote                                                           │
-│  ─────────────────────────────────────────                                        │
-│  > Designed encrypted keylogger with persistence & C2 exfiltration              │
-│  > Replicated advanced post-exploitation workflows (real threat TTPs)           │
+│  ─────────────────────────────────────────                                       │
+│  > Designed encrypted keylogger with persistence & C2 exfiltration               │
+│  > Replicated advanced post-exploitation workflows (real threat TTPs)            │
 │  > Deployed production-grade Cowrie SSH/Telnet honeypot                          │
-│  > Analyzed 50+ intrusion attempts for attacker behavioral profiling            │
+│  > Analyzed 50+ intrusion attempts for attacker behavioral profiling             │
 │                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -483,7 +483,7 @@ Cyber Kill Chain
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                  │
 │  > cat /etc/education                                                            │
-│  B.Tech in Computer Science Engineering — Vel Tech University (2023 – Present)  │
+│  B.Tech in Computer Science Engineering — Vel Tech University (2023 – Present)   │
 │  CGPA: 8.30 / 10                                                                 │
 │                                                                                  │
 │  > cat /etc/languages                                                            │
@@ -495,7 +495,7 @@ Cyber Kill Chain
 │                                                                                  │
 │  > cat /etc/leadership                                                           │
 │  Spearheaded organization of inter-collegiate hackathons,                        │
-│  technical competitions, and STEM outreach at Vel Tech University               │
+│  technical competitions, and STEM outreach at Vel Tech University                │
 │                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -533,7 +533,7 @@ Cyber Kill Chain
 │    I started because the world was already broken."                              │
 │                                                                                  │
 │   Security fails where comfort begins.                                           │
-│   I don't audit checklists. I execute attack chains.                            │
+│   I don't audit checklists. I execute attack chains.                             │
 │   Then I build the walls that stop them.                                         │
 │                                                                                  │
 │   Think like an attacker. Engineer like a defender.                              │
