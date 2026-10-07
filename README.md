@@ -93,7 +93,7 @@ SYSTEM IDENTITY
 │                                                                                  │
 │   > cat /etc/education                                                           │
 │   B.Tech Computer Science Engineering — Vel Tech University                      │
-│   CGPA: 8.28 / 10                                                                │
+│   CGPA: 8.30 / 10                                                                │
 │                                                                                  │
 │   > cat /etc/status                                                              │
 │   AUTHORIZED SECURITY RESEARCH // ACTIVE                                         │
@@ -140,7 +140,7 @@ SYSTEM IDENTITY
 </td>
 <td align="center" width="20%">
 
-### 🧠 8.28
+### 🧠 8.30
 **CGPA**
 
 </td>
