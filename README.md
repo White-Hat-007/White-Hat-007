@@ -21,32 +21,32 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBER_SECURITY_ENGINEER-00ff41?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-ff0033?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-00ccff?style=for-the-badge&logo=shield&logoColor=ffffff&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/AI_SECURITY-ff6600?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/CYBER_SECURITY_ENGINEER-0E7C3A?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-B3001B?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-0D5C9E?style=for-the-badge&logo=shield&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/AI_SECURITY-B85300?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME_TOP_7%25-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/TRYHACKME%20%7C%20TOP%207%25-C70039?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF"/>
   </a>
   <a href="https://rootdarsh-dev.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-0070F3?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
   </a>
   <a href="mailto:darsh.chatrani.work@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=White-Hat-007&style=for-the-badge&color=00ff41&label=PROFILE+SCANS"/>
+  <img src="https://komarev.com/ghpvc/?username=White-Hat-007&style=for-the-badge&color=0E7C3A&label=PROFILE+SCANS"/>
 </p>
 
 <br/>
@@ -69,11 +69,7 @@
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-SYSTEM IDENTITY
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ SYSTEM IDENTITY ⌁</h2>
 
 <div align="center">
 
@@ -149,11 +145,7 @@ SYSTEM IDENTITY
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-CAPABILITY MATRIX
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ CAPABILITY MATRIX ⌁</h2>
 
 <table align="center">
 <tr>
@@ -234,11 +226,7 @@ Cyber Kill Chain
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-ENGINEERING ARSENAL
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ ENGINEERING ARSENAL ⌁</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,js,ts,html,flask,fastapi,docker,git,linux,windows,postgres,redis,kafka&perline=9&theme=dark"/>
@@ -275,11 +263,7 @@ ENGINEERING ARSENAL
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-SIGNATURE SYSTEMS
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ SIGNATURE SYSTEMS ⌁</h2>
 
 <table>
 <tr>
@@ -378,11 +362,7 @@ SIGNATURE SYSTEMS
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-PROFESSIONAL EXPERIENCE
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ PROFESSIONAL EXPERIENCE ⌁</h2>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
@@ -413,11 +393,7 @@ PROFESSIONAL EXPERIENCE
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-OPERATIONAL METRICS
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ OPERATIONAL METRICS ⌁</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=White-Hat-007&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&ring_color=00ff41&include_all_commits=true&count_private=true" height="175"/>
@@ -430,11 +406,7 @@ OPERATIONAL METRICS
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-VERIFIED ACHIEVEMENTS
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ VERIFIED ACHIEVEMENTS ⌁</h2>
 
 ```diff
 + 🥇 1st Place — National Agentic AI Hackathon (190+ teams) | Prize: INR 15,000
@@ -448,26 +420,18 @@ VERIFIED ACHIEVEMENTS
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-CERTIFICATION STACK
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ CERTIFICATION STACK ⌁</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CPT_v3-CERTIFIED-00ff41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY_SIM-00ff41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CEH_v13_MASTER-IN_PROGRESS-ffcc00?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/COMPTIA_PENTEST+-IN_PROGRESS-ffcc00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CPT_v3-CERTIFIED-0E7C3A?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/MASTERCARD-CYBERSECURITY_SIM-0D5C9E?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/CEH_v13_MASTER-IN_PROGRESS-B85300?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/COMPTIA_PENTEST+-IN_PROGRESS-B85300?style=for-the-badge&labelColor=0B1020"/>
 </p>
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-ATTACK CHAIN
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ ATTACK CHAIN ⌁</h2>
 
 <div align="center">
 
@@ -513,18 +477,14 @@ ATTACK CHAIN
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-ADDITIONAL INTEL
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ ADDITIONAL INTEL ⌁</h2>
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                  │
 │  > cat /etc/education                                                            │
 │  B.Tech in Computer Science Engineering — Vel Tech University (2023 – Present)  │
-│  CGPA: 8.28 / 10                                                                 │
+│  CGPA: 8.30 / 10                                                                 │
 │                                                                                  │
 │  > cat /etc/languages                                                            │
 │  English · Hindi · Tamil · Sindhi · Gujarati                                     │
@@ -542,27 +502,23 @@ ADDITIONAL INTEL
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge//>-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-CONNECT
-<img src="https://img.shields.io/badge/</-00ff41?style=flat-square&logoColor=00ff41&labelColor=000000"/>
-</h2>
+<h2 align="center">⌁ CONNECT ⌁</h2>
 
 <p align="center">
   <a href="mailto:darsh.chatrani.work@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=protonmail&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/darshchatrani">
-    <img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
   <a href="https://github.com/White-Hat-007">
-    <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
   <a href="https://tryhackme.com/p/TheDarkHat">
-    <img src="https://img.shields.io/badge/TRYHACKME-00ff41?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-C70039?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF"/>
   </a>
   <a href="https://rootdarsh-dev.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-0070F3?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
   </a>
 </p>
 
